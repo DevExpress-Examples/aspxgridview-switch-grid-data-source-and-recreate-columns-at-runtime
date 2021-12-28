@@ -27,6 +27,7 @@ This example demonstrates how to use the same grid to display different data sou
 * [Callbacks](https://docs.devexpress.com/AspNet/402559/common-concepts/callbacks)
 * [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView)
 * [Grid View - Bind to Data](https://docs.devexpress.com/AspNet/3719/components/grid-view/concepts/bind-to-data)
+* [Grid View - Data Columns](https://docs.devexpress.com/AspNet/114141/components/card-view/concepts/data-representation-basics/columns/data-columns?p=netframework)
 * [ASPxRadioButtonList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxRadioButtonList?p=netframework)
 
 ## More Examples
