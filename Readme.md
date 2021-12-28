@@ -11,7 +11,7 @@
 <!-- run online end -->
 
 
-This example demonstrates how a user can use the same grid to view different data sources ([SqlDataSource](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource?view=netframework-4.8) instances). 
+This example demonstrates how to use the same grid to display different data sources ([SqlDataSource](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource?view=netframework-4.8) instances). 
 
 ![Switch grid data sources](images/grid-switch-data-source.png)
 
