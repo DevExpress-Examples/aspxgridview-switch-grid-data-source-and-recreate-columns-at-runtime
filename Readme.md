@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Grid View for ASP.NET Web Forms - How to Dynamically Switch the Grid's Data Source and Recreate Columns at Runtime
+# Grid View for ASP.NET Web Forms - How to dynamically switch the Grid's data source and recreate columns at runtime
 
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e448/)**
