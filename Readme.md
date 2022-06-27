@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # How to dynamically switch the grid's data source and recreate columns at runtime
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e448/)**
+**[[Run Online]](https://codecentral.devexpress.com/128539706/)**
 <!-- run online end -->
 
 
