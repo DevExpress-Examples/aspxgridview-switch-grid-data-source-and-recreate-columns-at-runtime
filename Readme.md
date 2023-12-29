@@ -6,9 +6,6 @@
 
 # Grid View for ASP.NET Web Forms - How to dynamically switch the Grid's data source and recreate columns at runtime
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128539706/)**
-<!-- run online end -->
 
 
 This example demonstrates how to use the same grid to display different data sources ([SqlDataSource](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource?view=netframework-4.8) instances). 
