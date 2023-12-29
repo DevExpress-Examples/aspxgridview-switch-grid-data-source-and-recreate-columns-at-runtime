@@ -9,9 +9,6 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to dynamically switch the grid's data source and recreate columns at runtime
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128539706/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to allow a user to use the same grid to view different data sources. Grid columns are recreated when a new data source is assigned. Please notice that the data source is unconditionally assigned on each post back / callback within the ASPxGridView.Load event handler, while columns are recreated only after switching the data source.</p><p>See also:<br />
